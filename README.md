@@ -1,0 +1,1 @@
+## This is a simple bot that checks internet speed on speedtest.net website and if the internet speed is less than the speed promised by ISP. Then the bot will automatically tag the ISP and post a complaince message on twitter.
